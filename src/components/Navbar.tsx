@@ -36,7 +36,7 @@ const Navbar: React.FC = () => {
       } p-4`}
     >
       <div className="container mx-auto flex items-center justify-between">
-        <div className="text-2xl font-bold text-white">MyWebsite</div>
+        <div className="text-2xl font-bold text-white">MediaKita</div>
         <ul className="hidden md:flex space-x-8 text-lg text-white">
           <li>
             <button

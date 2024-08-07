@@ -11,7 +11,7 @@ export default function Home() {
         <div className="flex-1 text-center md:text-left mb-12 md:mb-0">
           <FadeInSection>
             <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">
-              Selamat Datang di MyWebsite!
+              Selamat Datang di MediaKita!
             </h1>
             <p className="text-lg md:text-xl text-gray-300 mb-6">
               Promosi spesial! Dapatkan followers, likes, dan shares untuk akun Instagram Anda dengan layanan premium kami. Bergabunglah sekarang dan tingkatkan kehadiran sosial media Anda!

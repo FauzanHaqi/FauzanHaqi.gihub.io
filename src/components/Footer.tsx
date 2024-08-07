@@ -22,7 +22,7 @@ const Footer: React.FC = () => {
 
         {/* Copyright Section */}
         <div className="mt-6 text-center text-gray-400">
-          <p>&copy; {new Date().getFullYear()} MyWebsite. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} MediaKita. All rights reserved.</p>
         </div>
       </div>
     </footer>
